@@ -1,4 +1,4 @@
-var urlParser = require('urlparser');
+var urlParser = require('kaerus-component-urlparser');
 
 /* default request timeout */
 var DEFAULT_TIMEOUT = 5000;

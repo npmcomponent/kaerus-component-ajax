@@ -1,0 +1,9 @@
+{
+  "name": "kaerus-component-ajax",
+  "description": "Promised Ajax",
+  "version": "0.3.1",
+  "dependencies": {
+    "kaerus-component-urlparser": "git://github.com/npmcomponent/kaerus-component-urlparser.git"
+  },
+  "license": "Apache2_0"
+}
